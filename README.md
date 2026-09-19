@@ -7,8 +7,11 @@ I wanted to make this extension for my own use and drew inspiration from the pom
 that I wanted more control over the timer.
 
 To try this extension:
+
 Option 1:
+
    https://chromewebstore.google.com/detail/tab-blocker/bapnnbkmhcelciefebiggpnbfmagogom
+
 Option 2:
 1) Download the repository and extract it.
 2) Open Chrome and go to `chrome://extensions`.
